@@ -8,6 +8,7 @@ the number they wishto search for in their list.
 
 
 Input will need to have a last character signifing the end of the numbers you wish to add. 
+
 Sample input: 
 1 2 3 4 5 6 7 8 9 Quit
 
